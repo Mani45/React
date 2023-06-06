@@ -24,6 +24,7 @@ function App() {
           <Route path='/strategies' element={<Strategies />} />
           <Route exact path="/" element={<Home />} />
           <Route path='/navigationbar' element={<NavBarCmp />} />
+          
         </Routes>
 
       </div >
